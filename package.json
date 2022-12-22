@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "eslint": "^8.30.0",
     "firebase": "8.9",
     "lodash.debounce": "^4.0.8",
     "lodash.kebabcase": "^4.1.1",

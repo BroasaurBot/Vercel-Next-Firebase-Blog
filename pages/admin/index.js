@@ -66,7 +66,7 @@ function CreateNewPost() {
         await ref.set(data);
 
         toast.success('Post created!');
-        router.push(`//admin/${slug}`)
+        router.push(`/admin/${slug}`)
     }
 
     return (
